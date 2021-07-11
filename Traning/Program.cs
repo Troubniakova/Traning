@@ -22,6 +22,7 @@ namespace Traning
             Answer2 = Console.ReadLine();
 
             int age = int.Parse(Answer2);
+
             if (age > 0 && age < 99)
                 {
                 if (age < 7)
