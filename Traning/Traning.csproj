@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="1_consoleAppIfStatements\" />
+    <Folder Include="ThirdTryHomework\" />
   </ItemGroup>
 
 </Project>
