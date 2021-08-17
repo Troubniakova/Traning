@@ -1,6 +1,7 @@
 ﻿using System;
 using Traning;
 using Traning.Loops;
+using  Traning.ArrayzHW;
 
 namespace Traning
 {
@@ -18,8 +19,17 @@ namespace Traning
         public static void Main(string[] args)
         {
 
-            Console.WriteLine();
-            LoopHW.Run();
+            Caclulator.SumCalculator();
+
+            //Console.WriteLine();
+            //MoviesHWcs.Movies2();
+
+
+
+           //ArrayzHW2.Run();
+
+
+            //LoopHW.Run();
 
 
 
@@ -28,31 +38,31 @@ namespace Traning
             //Answer1 = Console.ReadLine();
             //int Product = int.Parse(Answer1);
 
-        //switch (Product)
-        //{
-        //    case 1:
-        //        Console.WriteLine("WHat Product you want to choose from 1 to 10");
-        //        IfElsePract.Run();
-        //        break;
+            //switch (Product)
+            //{
+            //    case 1:
+            //        Console.WriteLine("WHat Product you want to choose from 1 to 10");
+            //        IfElsePract.Run();
+            //        break;
 
-        //    case 2:
-        //        Console.WriteLine("WHat  you like more 1.Test or 2. Write");
-        //        BoolTraning.Run();
-        //        break;
-        //    case 3:
+            //    case 2:
+            //        Console.WriteLine("WHat  you like more 1.Test or 2. Write");
+            //        BoolTraning.Run();
+            //        break;
+            //    case 3:
 
-        //        Homework2test.Run();
-        //        break;
+            //        Homework2test.Run();
+            //        break;
 
-        //    default:
-        //        break;
-
-
+            //    default:
+            //        break;
 
 
 
 
-    }
+
+
+        }
 
 
 
